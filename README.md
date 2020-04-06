@@ -2,8 +2,8 @@
 
 Imbalanced classification on the Pokemon dataset attempting to classify if a Pokemon is legendary or not. The following approaches have been examined:
 
--- XGB Classifier
+- XGB Classifier
 
--- Logistic Regression
+- Logistic Regression
 
--- Naive Bayes
+- Naive Bayes
